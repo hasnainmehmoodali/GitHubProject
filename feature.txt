@@ -1,0 +1,8 @@
+GitHub is a cloud-based platform for version control and collaboration that uses Git. It allows developers to store, manage, and share code repositories while enabling teamwork through features like pull requests, issues, and code reviews. GitHub also supports CI/CD, project management tools, and integration with various development workflows. It is widely used for open-source and private projects, making software development more efficient and organized.
+
+
+
+
+
+
+
